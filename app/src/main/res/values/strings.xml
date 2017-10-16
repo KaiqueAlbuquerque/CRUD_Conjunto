@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewTower</string>
+    <string name="dicaUsuario">Usuário</string>
+    <string name="dicaSenha">Senha</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="dicaBusca">Digite o andar</string>
+    <string name="btnBusca">Buscar</string>
+
+    <string name="txtAndar">Andar: </string>
+    <string name="txtTamanho">Tamanho: </string>
+    <string name="txtSalas">Salas: </string>
+    <string name="txtValor">Valor: </string>
+    <string name="txtObservacao">Observação: </string>
+    <string name="txtSituacao">Situação: </string>
+</resources>
